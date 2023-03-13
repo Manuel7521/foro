@@ -1,0 +1,5 @@
+Realice la maquetación según los requerimientos y requisitos necesarios según la vista del proyecto, intentando que se vea lo mas conciso y claro al igual de un orden en cuanto a los campos que requiera tanto el uso del personal como del cliente final, para dicho trabajo me enfoque los siguientes campos.
+•	La visualización de la página web con datos más precisos y un estilo simple y acorde a los colores de la empresa.
+•	La visualización de los formularios y registros que se llevaran a cabo.
+•	La utilización de las tareas que asumirá la página al igual que sus campos dentro del proyecto.
+Esta maqueta sigue estando en fase de mejoramiento continuo al igual q las ideas y su enfoque.
